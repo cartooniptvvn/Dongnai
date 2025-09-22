@@ -1,7 +1,10 @@
 #EXTM3U
-#EXTINF:-1,ĐNRT1 Đà Nẵng 
+
+#EXTINF:-1 tvg-id="da-nang" group-title="Kênh địa phương" tvg-logo="https://danangtv.vn/images/dnrt1.png",ĐNRT1 Đà Nẵng
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/playlist.m3u8
-#EXTINF:-1,ĐNRT2 Đà Nẵng 
+
+#EXTINF:-1 tvg-id="da-nang" group-title="Kênh địa phương" tvg-logo="https://danangtv.vn/images/dnrt2.png",ĐNRT2 Đà Nẵng
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/playlist.m3u8
-#EXTINF:-1,ĐNRT Radio Đà Nẵng 
+
+#EXTINF:-1 tvg-id="da-nang" group-title="Kênh địa phương" tvg-logo="https://danangtv.vn/images/radionew1.png",ĐNRT Radio Đà Nẵng
 https://live.mediatech.vn/live/2858a998b1c7fbf4522accd5554588ceae3/playlist.m3u8
